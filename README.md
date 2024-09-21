@@ -30,4 +30,6 @@ http://notesapp-v1.dicodingacademy.com/
 
 Namun, utk menghubungkan frontend dengan backend yg berjalan secara lokal, hrus melakukan perubahan pada port dengan cara change URL:  ```localhost:5000```
 
+modul 4 deploy web service: https://youtu.be/0XmiOq3iQcQ?si=hTqz8Ko1Y_4Xc70n
+
 
